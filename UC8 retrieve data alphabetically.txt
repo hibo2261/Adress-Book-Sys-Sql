@@ -1,0 +1,8 @@
+
+     INSERT INTO addressbook_table (firstName, lastName, address, city, state, zip, phone_number, email_address) VALUES
+     ('Sunny','Batavia','Okp','Manpur','Rajasthan','897456','8523697415','sunny.batavia@yahoo.com'),
+     ('Kiran','Nikam','Rto','Nagpur','Maharashtra','369147','7521489634','KiranNikam1336@yahoo.com');
+     
+      SELECT * FROM addressbook_table;
+      
+      SELECT * FROM addressbook_table WHERE state = 'Maharashtra' ORDER BY firstName;

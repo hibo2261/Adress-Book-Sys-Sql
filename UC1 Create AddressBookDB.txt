@@ -1,0 +1,2 @@
+CREATE DATABASE addressbook_DB;
+USE addressbook_DB;

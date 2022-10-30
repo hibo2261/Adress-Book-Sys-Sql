@@ -1,0 +1,4 @@
+
+SELECT COUNT(firstName) FROM addressBook_table WHERE type ='family';
+SELECT COUNT(firstName) FROM addressBook_table WHERE type ='friend';
+SELECT COUNT(firstName) FROM addressBook_table WHERE type ='profession';

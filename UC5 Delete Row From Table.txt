@@ -1,0 +1,1 @@
+     DELETE FROM addressbook_table WHERE firstName = 'Hattie';

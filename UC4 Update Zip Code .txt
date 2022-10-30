@@ -1,0 +1,1 @@
+     UPDATE addressbook_table SET zip = '412412' WHERE firstName = 'Abhinav';

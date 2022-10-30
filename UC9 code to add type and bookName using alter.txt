@@ -1,0 +1,7 @@
+ALTER TABLE addressbook_table ADD COLUMN type varchar(50), ADD bookName varchar(15) NOT NULL ;
+      
+UPDATE addressbook_table SET bookName = 'One' , type = 'family' WHERE firstName = 'Sunny';
+UPDATE addressbook_table SET bookName = 'Two' , type = 'family' WHERE firstName = 'Nikhil';
+UPDATE addressbook_table SET bookName = 'Two' , type = 'friend' WHERE firstName = 'Kiran';
+UPDATE addressbook_table SET bookName = 'One' , type = 'friend' WHERE firstName = 'Abhinav';
+UPDATE addressbook_table SET bookName = 'One' , type = 'profession' WHERE firstName = 'Prasad';

@@ -1,0 +1,6 @@
+ INSERT INTO addressbook_table ( firstName, lastName, address, city, state, zip, phone_number, email_address) VALUES
+    ('Prasad','Chavan','Indore','Alwar','MP','122087','7038774975','
+    CodyAMaguire@rhyta.com '),
+     ('Hattie','Jonas','Dadar','Mumbai','Maharashtra','400067','8799999999','HattieCOneil@teleworm.us '),
+     ('Nikhil','Deore','Ok Road','Vardha','Maharashtra','425698','9663852147','ElizabethDAlexander@rhyta.com '),
+     ('Abhinav','Patel','DK Nagar','Surat','Gujrat','316857','7418529635','LeslieRKeane@dayrep.com ');

@@ -1,0 +1,2 @@
+   SELECT firstName FROM addressbook_table WHERE state = 'MP';
+     SELECT firstName FROM addressbook_table WHERE city = 'Vardha';
